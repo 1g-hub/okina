@@ -1,0 +1,88 @@
+\documentclass{jarticle}
+
+\setlength{\topmargin}{-45pt}
+%\setlength{\oddsidemargin}{0cm} 
+\setlength{\oddsidemargin}{-7.5mm}
+%\setlength{\evensidemargin}{0cm} 
+\setlength{\textheight}{24.1cm}
+%setlength{\textheight}{25cm} 
+\setlength{\textwidth}{17.4cm}
+%\setlength{\textwidth}{172mm} 
+\setlength{\columnsep}{11mm}
+
+\usepackage[dvipdfmx]{graphicx}
+\usepackage{amsmath,  amssymb}
+\usepackage[dvipdfmx]{hyperref}
+\usepackage{pxjahyper}
+\usepackage{amsfonts}
+\usepackage{cite}
+\usepackage{comment}
+\usepackage{bm}
+\usepackage[hang,small,bf]{caption}
+\usepackage[subrefformat=parens]{subcaption}
+\captionsetup{compatibility=false}
+
+\begin{document}
+
+\noindent
+
+\hspace{1em}
+%日付
+2020年7月15日  NLP 班 ゼミ資料
+\hfill
+M2 置名 一元
+
+\vspace{2mm}
+
+\hrule
+
+\begin{center}
+	{\Large \bf 進捗報告}
+\end{center}
+
+\hrule
+\vspace{3mm}
+ 
+\section{画像生成の途中経過報告}
+
+caption: ``this bird is brown with a white tail and has a long, pointy beak.''
+
+GAN を訓練画像826枚，バッチサイズ20，200epoch で4日間かけ学習させた後，上記の caption 入力により生成
+
+\begin{figure}[h]
+ \centering
+  \includegraphics[width=7cm]
+  {./SAMPLING/previous(GRU)/single/001.Black_footed_Albatross/Black_Footed_Albatross_0077_796114_s-1.png}
+  \caption{previous(LSTM)}
+\end{figure}
+
+\begin{figure}[h]
+ \centering
+  \includegraphics[width=7cm]
+  {./SAMPLING/Word2Vec(LSTM)/single/001.Black_footed_Albatross/Black_Footed_Albatross_0077_796114_s-1.png}
+  \caption{Word2Vec(LSTM)}
+\end{figure}
+
+\begin{figure}[h]
+ \centering
+  \includegraphics[width=7cm]
+  {./SAMPLING/GloVe(LSTM)/single/001.Black_footed_Albatross/Black_Footed_Albatross_0077_796114_s-1.png}
+  \caption{GloVe(LSTM)}
+\end{figure}
+
+\begin{figure}[h]
+ \centering
+  \includegraphics[width=7cm]
+  {./SAMPLING/fastText(LSTM)/single/001.Black_footed_Albatross/Black_Footed_Albatross_0077_796114_s-1.png}
+  \caption{fastText(LSTM)}
+\end{figure}
+
+\begin{figure}[h]
+ \centering
+  \includegraphics[width=7cm]
+  {./SAMPLING/ElMo(LSTM)/single/001.Black_footed_Albatross/Black_Footed_Albatross_0077_796114_s-1.png}
+  \caption{ElMo(LSTM)}
+\end{figure}
+
+
+\end{document}
