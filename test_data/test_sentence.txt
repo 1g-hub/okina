@@ -1,0 +1,127 @@
+001:this sea bird has a massive, sharp beak, and feathers that are mostly brown except on tail and feathers near the beak.
+
+002:large white bird with grey wings and a yellow beak
+
+003:this bird has a brownish gray body, brown eyes with white rim around the top and a long black bill.
+
+004:a black bird with a small humped bill and long black tailfeathers.
+
+005:this bird has an all black body with a large orange beak and a white eye.
+
+006:a stout bird with a white neck, mottled white and gray bellow and a short pointed bill with orange tip.
+
+007:small sized bird with white feathers on the bottom but black feathers from the head to the tail,an orange beak, and thin white stripe by the eye.
+
+008:this bird has a large, orange bill, a grey breast, and black wings.
+
+009:the bird has small beak when compared to its body with its crown in brown and the rest of the body is covered in black.
+
+010:medium sized black bird with one orange stripe on the wing, medium tarsus and medium beak
+
+011:this is a rust colored bird with black pointy beak and gray tail
+
+012:a yellow throat and crown with a black bill is what this small bird sports.
+
+013:the bird has a small triangular bill, a yellow crown and nape, white coverts, and black plumage across its belly and breast
+
+014:this bird has vivid blue crown and breast feathers, black and pale blue striped primaries, and a slightly rounded bi-colored bill, which is paler on the bottom.
+
+015:the colorful bird has a white belly and is otherwise mostly blue, and it has a short stubby beak.
+
+016:a distinct red bird with a blue head, green wings and a red eyering.
+
+017:bright red feathers on the bird and part of the face is covered by black.
+
+018:a small bird that has spotted chest and short stout bill
+
+019:this bird is almost completely gray with a dark gray crown.
+
+020:this colorful bird has a yellow chest,a white inalar stripe,and black tarsus and feet
+
+021:a bird with a black, hooded looking head and neck.
+
+022:a very well camouflaged bird with dark and light brown feathers and a tiny beak.
+
+023:the bird is brown with a curved neck and flat bill.
+
+024:a larger bird with coloring of a vivid green, yellow, blue and white with a long, flat beak.
+
+025:bird has a small grey beek head is blueish grey wings are grey tail is also grey back has a white section in it.
+
+026:this large, black bird has a large beak and bright red eye ring.
+
+027:complete black bird with a small black beak
+
+028:the bird has white colored breast, abdomen and throat with specks of brown and black on its crown and coverts.
+
+029:a black bird with a black belly and a bill that curves down wards
+
+030:the bird has a black bill that is curved and a black eyering.
+
+031:this bird has a white breast and throat, brown crown and back and a long black bill.
+
+032:this bird is brown and black in color with a black beak, and black eye rings.
+
+033:the bird has a white chest with a small curved yellow beak and a yellow eyering.
+
+034:a brown bird that has grey on the top of its head and a small beak
+
+035:this is a red bird with a white belly and a brown wing.
+
+036:a white chested bird with black spots and long yellow black tipped feathers.
+
+037:the bird has small tarsus, a yellow belly and breast, and a brown back.
+
+038:this is a bird with a yellow belly, brown wing and a grey head.
+
+039:this bird has a green crown, green primaries, and a yellow belly.
+
+040:a small bird with a white belly and breast, gray head, wings and back, with a small bill.
+
+041:this magnificent bird has a white belly, throat, and crown with a black superciliary, yellow torso, and dark wings with light secondaries.
+
+042:this bird has wings that are black and has a red belly
+
+043:this bird has wings that are brown and white and has a orange bill
+
+044:a bird with a medium hooked bill, ruffled red throat, blue head, and black wings.
+
+045:this bird has a white head and chest with light grey back and wings and a dark gray tail.
+
+046:this bird is brown in color with a flat orange beak, and black eye rings.
+
+047:this yellow bird with small orange beak, has black wings and a light gray rump.
+
+048:this bird has a black crown, yellow and black primaries, and a brown belly.
+
+049:this is a blue bird with white eyes and a gray beak.
+
+050:a brown bird with red eyes and black wings.
+
+051:the crown and wings are black the throat and chest are white.
+
+052:a medium sized bird with a short yellow bill and a brown head.
+
+053:a water bird with a long, white neck, black crown, red eyes and a long yellow bill.
+
+054:the small bird is blue all over with orange and black striped wings and a medium sized beak.
+
+055:this bird has wings that are black and white and has a yellow belly
+
+056:this pink bird has black eyerings, gray abdomen and gray wings and tail.
+
+057:this colorful bird has a red and white breast, black wings with white wing bars, and white bill.
+
+058:this bird has wings that are white and black with orange feet
+
+059:this bird has wings that are grey and has a white belly
+
+060:this bird has a wide, curved, black bill, a white throat and breast, and a light gray crown.
+
+061:this bird has a white crown as well as a red bill
+
+062:this bird has wings that are gray and has a white belly and yellow bill
+
+063:this bird has a white bill, with a white beast, and black feet.
+
+064:a large bird with a white breast and a black band around a yellow bill.
